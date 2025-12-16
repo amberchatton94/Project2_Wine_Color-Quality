@@ -1,7 +1,7 @@
 # Wine Color and Quality Analysis – MATH 237 Project 2
 
 ### Overview
-This project investigates the main chemical and pysical properties that influence wine color and wine quality. Specifically, it examines how measurable chemical properties such as acidity, sugar content, sulfur compounds, density, and alcohol levels relate to whether a wine is classified as red or white, and how these same features influence wine quality ratings.
+This project investigates the main chemical and pysical properties that influence wine color and wine quality. Specifically, it examines how measurable chemical properties such as acidity, sugar content, sulfur compounds, density, and alcohol levels relate to whether a wine is classified as red or white, and how these same features influence wine quality ratings. Understanding these relationships is useful for wine producers, quality control specialists, and consumers interested in how measurable properties influence wine characteristics
 
 The analysis is split into two parts:
 
@@ -9,7 +9,6 @@ Part 1: Predicting Wine Color (Red vs. White)
 
 Part 2: Predicting Wine Quality
 
-Understanding these relationships is useful for wine producers, quality control specialists, and consumers interested in how measurable properties influence wine characteristics.
 ---
 
 ### Dataset Description
